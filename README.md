@@ -94,9 +94,7 @@ DELETE  /api/products/:id
 
 ///////////////////////////
 
-POST /api/user
-@body: token
-
+GET /api/user
 POST    /api/logout
 ```
 
