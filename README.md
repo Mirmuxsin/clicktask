@@ -1,6 +1,6 @@
 # Click task: Laravel REST API with Sanctum
 
-##Task:
+## Task:
 Задание: написать REST API на LARAVEL
 
 Функции:
