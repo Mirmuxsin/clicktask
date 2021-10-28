@@ -18,7 +18,7 @@
 
 ## Set to use
 
-1. Clone it ```git clone url```
+1. Clone it ```git clone https://github.com/Mirmuxsin/clicktask.git```
 2. Change the *.env.example* to *.env* and add your database info
 3. Run it to correctly upload photos ```php artisan storage:link```
 4. Run the webserver on port 8000
